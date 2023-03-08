@@ -9,6 +9,7 @@ numpy = "*"
 pillow = "*"
 ipython = "*"
 jupyterlab = "*"
+tabulate = "*"
 
 [dev-packages]
 

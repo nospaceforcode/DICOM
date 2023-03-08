@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "501c44968a257f90518549e5c65f8e7854bc5ddd05e6a8365150bf586d40195f"
+            "sha256": "a4b471e65212b089558333d22f22587eaeb13f08d4ad3d2d0f8afe4ea859feb1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,7 +21,7 @@
                 "sha256:1142fa8e80dbae46bb6339573ad4c8c0841358f79c6eb50a493dceca14621bad",
                 "sha256:9107f1ca0b2a5553987a94a3c9959fe5b491fdf731389aa5b7b1bd0733e32de6"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==22.1.0"
         },
         "aiosqlite": {
@@ -1082,7 +1082,7 @@
                 "sha256:64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa",
                 "sha256:98b1b2782e3c6c4904938b84c0eb932721069dfdb9134313beff7c83c2df24bf"
             ],
-            "markers": "python_version >= '3.7' and python_version < '4'",
+            "markers": "python_version >= '3.7' and python_version < '4.0'",
             "version": "==2.28.2"
         },
         "rfc3339-validator": {
@@ -1138,6 +1138,14 @@
                 "sha256:cbb2a53eb64e5785878201a97ed7c7b94883f48b87bfb0bbe8b623c74679e4a8"
             ],
             "version": "==0.6.2"
+        },
+        "tabulate": {
+            "hashes": [
+                "sha256:0095b12bf5966de529c0feb1fa08671671b3368eec77d7ef7ab114be2c068b3c",
+                "sha256:024ca478df22e9340661486f85298cff5f6dcdba14f3813e8830015b9ed1948f"
+            ],
+            "index": "pypi",
+            "version": "==0.9.0"
         },
         "terminado": {
             "hashes": [
