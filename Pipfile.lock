@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a4b471e65212b089558333d22f22587eaeb13f08d4ad3d2d0f8afe4ea859feb1"
+            "sha256": "957d0c0b072ba81aada5b2e4ebcc42a933a133f07f0585515d5657e9a8977079"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -402,6 +402,22 @@
             ],
             "version": "==0.2.0"
         },
+        "ipytree": {
+            "hashes": [
+                "sha256:744dc1a02c3ec26df8a5ecd87d085a67dc8232a1def6048834403ddcf3b64143",
+                "sha256:d53d739bbaaa45415733cd06e0dc420a2af3d173438617db472a517bc7a61e56"
+            ],
+            "index": "pypi",
+            "version": "==0.2.2"
+        },
+        "ipywidgets": {
+            "hashes": [
+                "sha256:c0005a77a47d77889cafed892b58e33b4a2a96712154404c6548ec22272811ea",
+                "sha256:ebb195e743b16c3947fe8827190fb87b4d00979c0fbf685afe4d2c4927059fa1"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==8.0.4"
+        },
         "isoduration": {
             "hashes": [
                 "sha256:ac2f9015137935279eac671f94f89eb00584f940f5dc49462a0c4ee692ba1bd9",
@@ -534,6 +550,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.20.0"
+        },
+        "jupyterlab-widgets": {
+            "hashes": [
+                "sha256:a04a42e50231b355b7087e16a818f541e53589f7647144ea0344c4bf16f300e5",
+                "sha256:eeaecdeaf6c03afc960ddae201ced88d5979b4ca9c3891bcb8f6631af705f5ef"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.0.5"
         },
         "markupsafe": {
             "hashes": [
@@ -1239,6 +1263,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.5.1"
+        },
+        "widgetsnbextension": {
+            "hashes": [
+                "sha256:003f716d930d385be3fd9de42dd9bf008e30053f73bddde235d14fbeaeff19af",
+                "sha256:eaaaf434fb9b08bd197b2a14ffe45ddb5ac3897593d43c69287091e5f3147bf7"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.0.5"
         },
         "y-py": {
             "hashes": [
